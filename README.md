@@ -1,7 +1,7 @@
 # spacey
 a coursera project to finish my capstone project
 
-Step 1: Setting up this project called spacey
+Step 1: Setting up this project called spacey  
 Step 2: Uploading files to the repository
 Step 3: Creating the report
 Step 4: Uploading the report
